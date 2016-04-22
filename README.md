@@ -1,0 +1,2 @@
+# lotteryAlgorithm
+根据彩票历史数据来演算将要出现的下一期数据
